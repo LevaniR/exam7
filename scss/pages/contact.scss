@@ -1,0 +1,89 @@
+.contact-section {
+    display: flex;
+    background-color: #363E97;
+    width: 1170px;
+    height: 621px;
+    margin: auto;
+}
+.left {
+    width: 210px;
+    height: 110px;
+    margin-left: 100px;
+    margin-top: 45px;
+}
+.left-li {
+    color: #fff;
+    margin-top: 30px;
+    font-family: MyriadProRegular;
+    font-size: 20px;
+}
+.left-li-fax {
+    color: #fff;
+    font-family: MyriadProRegular;
+    font-size: 20px;
+}
+.left-li-street {
+    color: #fff;
+    font-family: MyriadProRegular;
+    font-size: 20px;
+}
+.right {
+    width: 630px;
+    height: 550px;
+    margin-top: 45px;
+    margin-left: 60px;
+}
+.display {
+        display: flex;
+    flex-direction: column;
+}
+.label {
+    color: #fff;
+    font-size: 20px;
+    font-family: MyriadProRegular;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.label-name {
+    color: #fff;
+    font-size: 20px;
+    font-family: MyriadProRegular;
+    margin-left: 25px;
+    
+}
+.label-massage {
+    color: #fff;
+    font-size: 20px;
+    font-family: MyriadProRegular;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.input {
+    background-color: transparent;
+    border: solid 1px #fff;
+    width: 630px;
+    height: 60px;
+    font-size: 20px;
+    font-family: MyriadProRegular;
+    margin-top: 15px;
+}
+.input-message {
+    background-color: transparent;
+    border: solid 1px #fff;
+    width: 630px;
+    height: 100px;
+    font-size: 20px;
+    font-family: MyriadProRegular;
+    margin-top: 15px;
+}
+.send {
+    background-color: #EE4036;
+    color: #fff;
+    font-family: HelveticaNeueLTStdBdCn;
+    border: 0;
+    width: 130px;
+    height: 45px;
+    font-size: 19px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}

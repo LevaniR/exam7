@@ -1,0 +1,26 @@
+.social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.google {
+    padding: 0 18px 0 0;
+}
+.fb {
+    border-left: 1px #3D58A6 solid;
+    padding: 0 18px;
+}
+.youtube {
+    border-left: 1px #3D58A6 solid;
+    padding: 0 18px;
+}
+.serch {
+    border-left: 1px #3D58A6 solid;
+    padding: 0 0 0 18px;
+}
+.soc-img {
+    height: 30px;
+}
+.serch-img {
+    height: 40px;
+}

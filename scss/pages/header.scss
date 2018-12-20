@@ -1,0 +1,27 @@
+.header-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+.logo {
+	width: 200px;
+    height: 60px;
+    
+}
+.nav-ul {
+    display: flex;
+    
+}
+.nav-li {
+	margin-left: 25px;
+}
+.nav-a {
+    color: #3D58A6;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: RobotoRegular;
+}
+.nav-a:hover{
+	opacity: 0.6;
+} 

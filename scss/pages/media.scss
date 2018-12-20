@@ -1,0 +1,106 @@
+@media (max-width: 1188px) {
+    .geolab {
+        width: 900px;
+        height: 460px;
+    }
+    .left {
+        margin-left: 10px;
+    }
+    .contact-section {
+        width: 940px;
+    }
+    .mob-social {
+        display: none;
+    }
+}
+    
+    
+    
+    @media (max-width: 960px) {
+    .geolab {
+        width: 700px;
+        height: 460px;
+    }
+    .nav {
+        display: none;
+    }
+    
+    .burger {
+        display: flex;
+    }
+    .contact-section {
+        width: 700px;
+        height: 810px;
+        align-items: center;
+        flex-direction: column-reverse;
+        justify-content: flex-end;
+    }
+    .left {
+        margin-left: 0;
+        margin-top: 45px;
+    }
+    .right {
+        margin-top: 25px;
+        margin-left: 0;
+    }
+    .mob-social {
+        display: none;
+    }
+}
+    
+    
+    
+    @media (max-width: 730px) {
+    .geolab {
+        width: 500px;
+        height: 460px;
+    }
+    .contact-section {
+        width: 500px;
+    }
+    .right {
+        width: 330px;
+    }
+    .input {
+        width: 330px;
+        height: 50px;
+    }
+    .input-message {
+        width: 330px;
+    }
+    .mob-social {
+        display: none;
+    }
+}
+    
+    
+    
+    @media (max-width: 550px) {
+    .none {
+        display: none;
+    }
+    .serch {
+        border: 0;
+        padding: 0;
+    }
+    .geolab {
+        width: 300px;
+        height: 260px;
+    }
+    .contact-section {
+        width: 300px;
+    }
+    .right {
+        width: 250px;
+    }
+    .input {
+        width: 250px;
+        height: 50px;
+    }
+    .input-message {
+        width: 250px;
+    }
+    .mob-social {
+        display: flex;
+    }
+}
